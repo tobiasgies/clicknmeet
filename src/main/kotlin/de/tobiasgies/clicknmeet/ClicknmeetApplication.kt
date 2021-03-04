@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class ClicknmeetApplication
 
 fun main(args: Array<String>) {
-	runApplication<ClicknmeetApplication>(*args)
+    runApplication<ClicknmeetApplication>(*args)
 }
