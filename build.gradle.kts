@@ -6,7 +6,7 @@ plugins {
     id("com.vaadin") version "0.14.3.7"
     kotlin("jvm") version "1.4.30"
     kotlin("plugin.spring") version "1.4.30"
-    id("org.jlleitschuh.gradle.ktlint") version "9.4.1"
+    id("org.jlleitschuh.gradle.ktlint") version "10.0.0"
 }
 
 group = "de.tobiasgies"
